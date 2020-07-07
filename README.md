@@ -3,6 +3,7 @@ Free sharing resume project. After I took time to create the resume I find the f
 
 ## Font
 Raleway and Loto
+**Note** Try to use big/darker font for information that you want to represent.
 
 ## Preview
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview.png)

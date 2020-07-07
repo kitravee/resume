@@ -16,17 +16,22 @@ Raleway and Loto
 3) Enjoy create your own RESUME 😃
 
 ## Share your resume
-1) Click **Share** right top coner
+1) Click **"Share"** right top corner
 
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-1.png)
 
-2) Set to **Anyone on internet with this link can view** and then Click **copy the link**
+2) Set to **"Anyone on internet with this link can view"** and then Click **"copy the link"**
 
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-2.png)
 
-## term of use
-Feel free to use this template do not have to reference to me.
+## Term of use
+This template design by Kitravee.
+Feel free to use this it does not have to refer to me.
 This template is only sharing purpose.
+
+## My limitation
+⭐ I am not good in English language. If there are some problems, I am so sorry.
+Please feel free to audit/edit my article and pull the request to me.
 
 ## Reference
 https://github.com/deedy/Deedy-Resume

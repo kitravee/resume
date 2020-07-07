@@ -30,7 +30,7 @@ Feel free to use this it does not have to refer to me.
 This template is only sharing purpose.
 
 ## My limitation
-⭐ I am not good in English language. If there are some problems, I am so sorry.
+⭐ I am not good in English language. If there are some problems, I am so sorry.\
 Please feel free to audit/edit my article and pull the request to me.
 
 ## Reference

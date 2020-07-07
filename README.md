@@ -1,5 +1,5 @@
 # Kitravee-Resume
-Free sharing resume project.
+Free sharing resume project. After I took time to create the resume I find the fit one, so I want to share to everybody.
 
 ## Font
 Raleway and Loto
@@ -25,7 +25,7 @@ Raleway and Loto
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-2.png)
 
 ## Term of use
-This template design by Kitravee.
+✔ This template design by Kitravee.
 Feel free to use this it does not have to refer to me.
 This template is only sharing purpose.
 

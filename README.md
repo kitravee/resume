@@ -6,7 +6,8 @@ Raleway and Loto\
 ⭐ Try to use big/darker font for information that you want to represent.
 
 ## Preview
-![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview.png)
+![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview.png)\
+New version coming soon ....
 
 ## How to use this template
 1) Go to this **[link](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)**

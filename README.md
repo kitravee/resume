@@ -23,8 +23,7 @@ New version coming soon ....
 ![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-1.png)
 
 2) Set to **"Anyone on internet with this link can view"** and then Click **"copy the link"**
-
-![alt tag](https://github.com/kitravee/resume/blob/master/images/how-to-share-2.png)
+<img src="https://github.com/kitravee/resume/blob/master/images/how-to-share-2.png" alt="how-to-share-2" width="500">
 
 ## Term of use
 ✔ This template design by Kitravee.

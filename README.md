@@ -2,7 +2,7 @@
 Free sharing resume project. After I took time to create the resume I find the fit one, so I want to share to everybody.
 
 ## Font
-Raleway and Loto\
+✏ Raleway and Loto\
 ⭐ Try to use big/darker font for information that you want to represent.
 
 ## Preview

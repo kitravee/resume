@@ -1,5 +1,5 @@
 # Kitravee-Resume
-Free sharing resume project. After I took time to create the resume I find the fit one, so I want to share to everybody.
+Free sharing resume project. After I took the time to create the resume I find the fit one, so I want to share it. :)
 
 ## Font
 ✏ Raleway and Loto\
@@ -11,7 +11,7 @@ Free sharing resume project. After I took time to create the resume I find the f
 **[Version2](https://docs.google.com/document/d/1XfCX5UAiPKk-nRt4Q_OOQNRa1pjB_1OWEHtfdFi6TjI/edit?usp=sharing)**\
 <img src="https://github.com/kitravee/resume/blob/master/images/Preview2.png" width="350">
 ## How to use this template
-1) Go to this **[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)** or
+1) Go to **[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)** or
 **[Version2](https://docs.google.com/document/d/1XfCX5UAiPKk-nRt4Q_OOQNRa1pjB_1OWEHtfdFi6TjI/edit?usp=sharing)**
 2) Click **File > Make a Copy** (It will create the clone version of this template)
 

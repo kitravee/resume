@@ -6,9 +6,9 @@ Free sharing resume project. After I took time to create the resume I find the f
 ⭐ Try to use big/darker font for information that you want to represent.
 
 ## Preview
-Version1 Resume\
+**[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)** \
 <img src="https://github.com/kitravee/resume/blob/master/images/Preview.png" width="350">\
-Version2 Resume\
+**[Version2](https://docs.google.com/document/d/1XfCX5UAiPKk-nRt4Q_OOQNRa1pjB_1OWEHtfdFi6TjI/edit?usp=sharing)**\
 <img src="https://github.com/kitravee/resume/blob/master/images/Preview2.png" width="350">
 ## How to use this template
 1) Go to this **[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)** or

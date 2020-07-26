@@ -7,9 +7,9 @@ Free sharing resume project. After I took time to create the resume I find the f
 
 ## Preview
 Version1 Resume\
-![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview.png)\
+![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview.png | width=150)\
 Version2 Resume\
-![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview2.png)\
+![alt tag](https://github.com/kitravee/resume/blob/master/images/Preview2.png | width=150)
 ## How to use this template
 1) Go to this **[Version1](https://docs.google.com/document/d/1dhjeDxdO8NaXcGA6uPxNuhGjhpY14966TdpyIgn5bNA/edit?usp=sharing)** or
 **[Version2](https://docs.google.com/document/d/1XfCX5UAiPKk-nRt4Q_OOQNRa1pjB_1OWEHtfdFi6TjI/edit?usp=sharing)**
